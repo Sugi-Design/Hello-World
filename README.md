@@ -1,2 +1,2 @@
 # Hello-World
-Just to learn how GitHub is
+Just to learn how github is
